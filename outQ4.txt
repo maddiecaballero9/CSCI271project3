@@ -1,0 +1,11 @@
+Script started on 2026-02-26 11:52:11-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ javac Q4.java
+[?2004l[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ java Q4
+[?2004lEnter your the numbers
+4 3 4 5
+Enter the digit
+Numbers of time digit appear: 0
+[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-26 11:52:40-05:00 [COMMAND_EXIT_CODE="0"]

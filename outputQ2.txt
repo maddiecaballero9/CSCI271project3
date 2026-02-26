@@ -1,0 +1,12 @@
+Script started on 2026-02-26 11:43:20-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ javac Q2.java
+[?2004l[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ java Q2
+[?2004lEnter your the word
+sleeeep
+Enter the character
+e
+Numbers of character: 4
+[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-26 11:44:01-05:00 [COMMAND_EXIT_CODE="0"]

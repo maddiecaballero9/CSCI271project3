@@ -1,0 +1,11 @@
+Script started on 2026-02-26 12:03:32-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ javac Q6.java
+[?2004l[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ java Q6
+[?2004lEnter the total numbers in your list
+2 3 4 6
+Enter the numbers
+The sum of even number is: 4
+[?2004h]0;reyesm4@thur114-hp1: ~/CSCI271-project-3[01;32mreyesm4@thur114-hp1[00m:[01;34m~/CSCI271-project-3[00m$ exit
+[?2004lexit
+
+Script done on 2026-02-26 12:04:11-05:00 [COMMAND_EXIT_CODE="0"]
